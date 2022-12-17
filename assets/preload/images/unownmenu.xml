@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="unownmenu.png">
+<SubTexture name="idle0000" x="0" y="0" width="548" height="593" frameX="-3" frameY="0" frameWidth="558" frameHeight="593" />
+<SubTexture name="idle0001" x="548" y="0" width="548" height="593" frameX="-3" frameY="0" frameWidth="558" frameHeight="593" />
+<SubTexture name="idle0002" x="1096" y="0" width="548" height="593" frameX="-3" frameY="0" frameWidth="558" frameHeight="593" />
+</TextureAtlas>
