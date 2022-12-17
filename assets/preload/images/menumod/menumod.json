@@ -1,0 +1,10 @@
+{	
+	"bg":"menuBG",
+	"bgdata":[0,0,1],
+	"bg2":"Splash",
+	"bg2data":[0,0,1],
+	"personajes":[0,0,1],
+	"personajestween":[600,0],
+	"zoomcamara":[2.2,1.6]
+
+}
