@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="textbox.png">
+	<!-- Created with Adobe Animate version 21.0.4.39603 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="appear0000" x="5" y="5" width="1777" height="526"/>
+	<SubTexture name="appear0001" x="5" y="5" width="1777" height="526"/>
+	<SubTexture name="appear0002" x="1787" y="5" width="1777" height="526"/>
+	<SubTexture name="appear0003" x="1787" y="5" width="1777" height="526"/>
+	<SubTexture name="appear0004" x="3569" y="5" width="1777" height="526"/>
+	<SubTexture name="appear0005" x="3569" y="5" width="1777" height="526"/>
+	<SubTexture name="away0000" x="5351" y="5" width="1503" height="1106"/>
+	<SubTexture name="away0001" x="5351" y="5" width="1503" height="1106"/>
+	<SubTexture name="away0002" x="5" y="1116" width="1503" height="1106"/>
+	<SubTexture name="away0003" x="1513" y="1116" width="1503" height="1106"/>
+	<SubTexture name="away0004" x="3021" y="1116" width="1503" height="1106"/>
+	<SubTexture name="away0005" x="4529" y="1116" width="1503" height="1106"/>
+	<SubTexture name="away0006" x="6037" y="1116" width="1503" height="1106"/>
+	<SubTexture name="away0007" x="5" y="2227" width="1503" height="1106"/>
+	<SubTexture name="away0008" x="1513" y="2227" width="1503" height="1106"/>
+	<SubTexture name="away0009" x="3021" y="2227" width="1503" height="1106"/>
+	<SubTexture name="away0010" x="4529" y="2227" width="1503" height="1106"/>
+	<SubTexture name="away0011" x="6037" y="2227" width="1503" height="1106"/>
+	<SubTexture name="away0012" x="5" y="3338" width="1503" height="1106"/>
+	<SubTexture name="away0013" x="1513" y="3338" width="1503" height="1106"/>
+	<SubTexture name="away0014" x="3021" y="3338" width="1503" height="1106"/>
+	<SubTexture name="away0015" x="4529" y="3338" width="1503" height="1106"/>
+	<SubTexture name="away0016" x="6037" y="3338" width="1503" height="1106"/>
+	<SubTexture name="away0017" x="5" y="4449" width="1503" height="1106"/>
+	<SubTexture name="away0018" x="1513" y="4449" width="1503" height="1106"/>
+	<SubTexture name="away0019" x="3021" y="4449" width="1503" height="1106"/>
+	<SubTexture name="away0020" x="4529" y="4449" width="1503" height="1106"/>
+	<SubTexture name="away0021" x="6037" y="4449" width="1503" height="1106"/>
+	<SubTexture name="away0022" x="5" y="5560" width="1503" height="1106"/>
+	<SubTexture name="away0023" x="5" y="5560" width="1503" height="1106"/>
+</TextureAtlas>
