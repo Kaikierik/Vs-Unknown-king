@@ -1,0 +1,12 @@
+{	
+	"optionShit":["freeplay","story_mode","mods","awards","credits","donate","options"],
+	"data":[500,25,0.7,100],
+	"individual":true,
+	"item1":[540,25,0.7],
+	"item2":[540,125,0.7],
+	"item3":[540,225,0.7],
+	"item4":[540,325,0.7],
+	"item5":[540,425,0.7],
+	"item6":[540,525,0.7],
+	"item7":[540,625,0.7]
+}
